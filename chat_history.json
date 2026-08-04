@@ -1,0 +1,42 @@
+[
+    {
+        "user": "what is ai",
+        "bot": "AI stands for Artificial Intelligence. It allows machines to think and learn like humans.",
+        "time": "2026-08-04 19:42:06.283780"
+    },
+    {
+        "user": "what is",
+        "bot": "Sorry, I don't understand. Please ask another FAQ question.",
+        "time": "2026-08-04 19:42:27.034608"
+    },
+    {
+        "user": "what is python",
+        "bot": "Python is a popular programming language used for AI, web development, and automation.",
+        "time": "2026-08-04 19:42:43.625826"
+    },
+    {
+        "user": "explain what is find s in machine learning",
+        "bot": "Sorry, I don't understand. Please ask another FAQ question.",
+        "time": "2026-08-04 19:43:37.783414"
+    },
+    {
+        "user": "tell me something about ai",
+        "bot": "AI stands for Artificial Intelligence. It allows machines to think and learn like humans.",
+        "time": "2026-08-04 19:57:16.443381"
+    },
+    {
+        "user": "tell me something about ml",
+        "bot": "Sorry, I couldn't understand your question. Please ask something related to the FAQs.",
+        "time": "2026-08-04 19:57:24.304170"
+    },
+    {
+        "user": "tell me something about ML",
+        "bot": "Sorry, I couldn't understand your question. Please ask something related to the FAQs.",
+        "time": "2026-08-04 19:57:33.350168"
+    },
+    {
+        "user": "tell me something about machine learning",
+        "bot": "Machine Learning is a branch of AI that enables computers to learn from data.",
+        "time": "2026-08-04 19:58:01.661845"
+    }
+]
