@@ -17,26 +17,6 @@ This chatbot understands user questions and provides relevant answers from a FAQ
 
 ![Chatbot Response](chatbotimage3.png.jpeg)
 
-## ▶️ Run Application
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Start the Flask application:
-
-```bash
-python app.py
-```
-
-Open the application in your browser:
-
-```
-http://127.0.0.1:5000
-```
-
 ## 🔗 GitHub Repository
 
 Project source code:
